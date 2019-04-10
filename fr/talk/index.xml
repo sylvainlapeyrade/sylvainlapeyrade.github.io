@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/fr/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://sylvainlapeyrade.github.io/fr/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/talk/example/</guid>
+      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
+    </item>
+    
+  </channel>
+</rss>

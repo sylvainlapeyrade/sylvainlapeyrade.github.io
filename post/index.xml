@@ -2,13 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sylvain Lapeyrade</title>
-    <link>https://sylvain.lapeyrade.github.io/post/</link>
+    <link>https://sylvainlapeyrade.github.io/post/</link>
     <description>Recent content in Posts on Sylvain Lapeyrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sylvain.lapeyrade.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sylvainlapeyrade.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://sylvainlapeyrade.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/post/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://sylvainlapeyrade.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/post/getting-started/</guid>
+      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
+    </item>
     
   </channel>
 </rss>
