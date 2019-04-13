@@ -7,27 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sylvainlapeyrade.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
-      <link>https://sylvainlapeyrade.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Personal Website</title>
+      <link>https://sylvainlapeyrade.github.io/project/personal_website/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://sylvainlapeyrade.github.io/project/external-project/</guid>
-      <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
+      <guid>https://sylvainlapeyrade.github.io/project/personal_website/</guid>
+      <description>Using Academic theme for Hugo to generate a web site.</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://sylvainlapeyrade.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Recurrent Neural Network : LSTM</title>
+      <link>https://sylvainlapeyrade.github.io/project/rnn_lstm/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://sylvainlapeyrade.github.io/project/internal-project/</guid>
-      <description>An example of using the in-built project page.</description>
+      <guid>https://sylvainlapeyrade.github.io/project/rnn_lstm/</guid>
+      <description>Use of Recurrent Neural Network for network intrusion detection.</description>
+    </item>
+    
+    <item>
+      <title>Multi-User Dungeon</title>
+      <link>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</guid>
+      <description>School project of a Multi-User Dungeon development.</description>
     </item>
     
   </channel>

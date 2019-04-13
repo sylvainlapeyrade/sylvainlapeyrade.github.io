@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/tags/web/</link>
+    <description>Recent content in Web on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://sylvainlapeyrade.github.io/project/personal_website/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/project/personal_website/</guid>
+      <description>Using Academic theme for Hugo to generate a web site.</description>
+    </item>
+    
+  </channel>
+</rss>

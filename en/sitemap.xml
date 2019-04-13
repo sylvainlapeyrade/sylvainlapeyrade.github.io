@@ -30,6 +30,53 @@
   
     <url>
     
+      <loc>https://sylvainlapeyrade.github.io/tags/hugo/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/project/personal_website/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/" hreflang="fr"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/project/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/" hreflang="fr"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/web/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/academic-theme/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/publication_types/3/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/publication_types/3/" hreflang="fr"/>
     
@@ -88,21 +135,41 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/authors/admin/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/authors/admin/" hreflang="fr"/>
     
-      <loc>https://sylvainlapeyrade.github.io/tags/</loc>
+      <loc>https://sylvainlapeyrade.github.io/authors/admin/</loc>
       <lastmod>2019-04-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/authors/admin/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/authors/admin/" hreflang="fr"/>
+      <loc>https://sylvainlapeyrade.github.io/tags/lstm/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
     
-      <loc>https://sylvainlapeyrade.github.io/authors/admin/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
+      <loc>https://sylvainlapeyrade.github.io/project/rnn_lstm/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/deep-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/deep-learning/" hreflang="fr"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/deep-learning/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/machine-learning/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -126,6 +193,40 @@
   
     <url>
     
+      <loc>https://sylvainlapeyrade.github.io/tags/development/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/java/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/mud/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/tags/school/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tutorial/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tutorial/example/" hreflang="fr"/>
     
@@ -140,54 +241,6 @@
     
       <loc>https://sylvainlapeyrade.github.io/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/deep-learning/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/deep-learning/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/demo/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/demo/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/external-project/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/external-project/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/internal-project/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/internal-project/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>

@@ -154,9 +154,6 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/demo/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/demo/" hreflang="en"/>
-    
       <loc>https://sylvainlapeyrade.github.io/fr/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -164,17 +161,11 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/external-project/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/external-project/" hreflang="en"/>
-    
       <loc>https://sylvainlapeyrade.github.io/fr/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
   
     <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/internal-project/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/internal-project/" hreflang="en"/>
     
       <loc>https://sylvainlapeyrade.github.io/fr/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
