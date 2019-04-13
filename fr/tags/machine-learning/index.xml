@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine learning on Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</link>
+    <description>Recent content in Machine learning on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/fr/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recurrent Neural Network : LSTM</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</guid>
+      <description>Usage des RNN et Long Short-Term Memory pour un système de détection d&amp;rsquo;intrusion réseau..</description>
+    </item>
+    
+  </channel>
+</rss>

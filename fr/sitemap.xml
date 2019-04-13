@@ -2,6 +2,11 @@
   
     <url>
     
+      <loc>https://sylvainlapeyrade.github.io/fr/author/admin/about/</loc>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/talk/example/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/talk/example/" hreflang="en"/>
     
@@ -25,6 +30,65 @@
     
       <loc>https://sylvainlapeyrade.github.io/fr/</loc>
       <lastmod>2030-06-01T13:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/hugo/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/hugo/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/hugo/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/project/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/personal_website/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/personal_website/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/project/personal_website/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/web/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/web/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/web/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/academic-theme/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/academic-theme/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/academic-theme/</loc>
+      <lastmod>2019-04-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -88,22 +152,41 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/" hreflang="en"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/tags/</loc>
-      <lastmod>2019-04-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/authors/admin/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/authors/admin/" hreflang="en"/>
     
       <loc>https://sylvainlapeyrade.github.io/fr/authors/admin/</loc>
       <lastmod>2019-04-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/development/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/development/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/development/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/machine-learning/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/machine-learning/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/rnn_lstm/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -126,6 +209,45 @@
   
     <url>
     
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/java/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/java/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/java/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/mud/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/mud/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/mud/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/multi_user_dungeon/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/school/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/school/" hreflang="en"/>
+    
+      <loc>https://sylvainlapeyrade.github.io/fr/tags/school/</loc>
+      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tutorial/example/" hreflang="fr"/>
       <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tutorial/example/" hreflang="en"/>
     
@@ -140,42 +262,6 @@
     
       <loc>https://sylvainlapeyrade.github.io/fr/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/project/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/project/" hreflang="en"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/fr/project/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>

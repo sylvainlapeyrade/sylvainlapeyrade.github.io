@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/tags/development/</link>
+    <description>Recent content in Development on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/fr/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recurrent Neural Network : LSTM</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</guid>
+      <description>Usage des RNN et Long Short-Term Memory pour un système de détection d&amp;rsquo;intrusion réseau..</description>
+    </item>
+    
+    <item>
+      <title>Multi-User Dungeon</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
+      <description>Projet scolaire de développement d&amp;rsquo;un Multi-User Dungeon.</description>
+    </item>
+    
+  </channel>
+</rss>
