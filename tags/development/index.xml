@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sylvainlapeyrade.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recurrent Neural Network : LSTM</title>
+      <link>https://sylvainlapeyrade.github.io/project/rnn_lstm/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/project/rnn_lstm/</guid>
+      <description>Use of RNN with Long Short-Term Memory for network intrusion detection.</description>
+    </item>
     
     <item>
       <title>Multi-User Dungeon</title>

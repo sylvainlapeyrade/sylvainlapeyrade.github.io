@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine-learning on Sylvain Lapeyrade</title>
+    <title>Machine learning on Sylvain Lapeyrade</title>
     <link>https://sylvainlapeyrade.github.io/tags/machine-learning/</link>
-    <description>Recent content in machine-learning on Sylvain Lapeyrade</description>
+    <description>Recent content in Machine learning on Sylvain Lapeyrade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://sylvainlapeyrade.github.io/project/rnn_lstm/</guid>
-      <description>Use of Recurrent Neural Network for network intrusion detection.</description>
+      <description>Use of RNN with Long Short-Term Memory for network intrusion detection.</description>
     </item>
     
   </channel>

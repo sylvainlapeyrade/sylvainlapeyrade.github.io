@@ -144,9 +144,6 @@
   
     <url>
     
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/deep-learning/" hreflang="fr"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/deep-learning/" hreflang="en"/>
-    
       <loc>https://sylvainlapeyrade.github.io/fr/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>

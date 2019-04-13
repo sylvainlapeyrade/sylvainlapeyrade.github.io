@@ -145,23 +145,7 @@
   
     <url>
     
-      <loc>https://sylvainlapeyrade.github.io/tags/lstm/</loc>
-      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/project/rnn_lstm/</loc>
-      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/tags/deep-learning/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://sylvainlapeyrade.github.io/fr/tags/deep-learning/" hreflang="fr"/>
-    
-      <loc>https://sylvainlapeyrade.github.io/tags/deep-learning/</loc>
+      <loc>https://sylvainlapeyrade.github.io/tags/development/</loc>
       <lastmod>2019-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,6 +155,12 @@
       <loc>https://sylvainlapeyrade.github.io/tags/machine-learning/</loc>
       <lastmod>2019-04-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://sylvainlapeyrade.github.io/project/rnn_lstm/</loc>
+      <lastmod>2019-04-01T00:00:00+02:00</lastmod>
     </url>
   
     <url>
@@ -189,13 +179,6 @@
     
       <loc>https://sylvainlapeyrade.github.io/post/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://sylvainlapeyrade.github.io/tags/development/</loc>
-      <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
