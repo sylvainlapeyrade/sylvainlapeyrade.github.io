@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Recurrent Neural Network : LSTM</title>
+      <title>RNN : LSTM</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_lstm/</guid>
-      <description>Usage des RNN et Long Short-Term Memory pour un système de détection d&amp;rsquo;intrusion réseau..</description>
+      <description>Usage des Recurrent Neural Networks et Long Short-Term Memory pour la détection d&amp;rsquo;intrusion réseau.</description>
     </item>
     
     <item>
