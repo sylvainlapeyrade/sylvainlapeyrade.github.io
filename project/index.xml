@@ -39,5 +39,14 @@
       <description>School project of a Multi-User Dungeon development.</description>
     </item>
     
+    <item>
+      <title>Music review site</title>
+      <link>https://sylvainlapeyrade.github.io/project/music_review_site/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/project/music_review_site/</guid>
+      <description>School project : The making of a music review website.</description>
+    </item>
+    
   </channel>
 </rss>
