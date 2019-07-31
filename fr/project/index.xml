@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/project/</link>
+      <atom:link href="https://sylvainlapeyrade.github.io/fr/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
+      <title>Projects</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/</link>
+    </image>
+    
+    <item>
+      <title>Site web personnel</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/personal_website/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/personal_website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNN Détection d&#39;intrusion Keras</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-User Dungeon</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Site critique musicale</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
