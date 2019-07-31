@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/authors/</link>
+    <description>Recent content in Authors on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://sylvainlapeyrade.github.io/fr/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/authors/admin/</guid>
+      <description>Passionné par l&amp;rsquo;high-tech. Profondément intéressé par l&amp;rsquo;intelligence artificielle et le machine learning. J&amp;rsquo;entreprends de nombreux projets liés à ces domaines.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/</link>
+    <description>Recent content on Sylvain Lapeyrade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://sylvainlapeyrade.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Site web personnel</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/personal_website/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/personal_website/</guid>
+      <description>Usage de l&amp;rsquo;Academic theme pour Hugo afin de générer un site web.</description>
+    </item>
+    
+    <item>
+      <title>RNN Détection d&#39;intrusion Keras</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</guid>
+      <description>Implémentaion de Recurrent Neural Networks avec Keras pour la détection d&amp;rsquo;intrusion dans le réseau.</description>
+    </item>
+    
+    <item>
+      <title>Multi-User Dungeon</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
+      <description>Projet scolaire de développement d&amp;rsquo;un Multi-User Dungeon.</description>
+    </item>
+    
+    <item>
+      <title>Site critique musicale</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</guid>
+      <description>Projet d&amp;rsquo;étude : Création d&amp;rsquo;un site de critique musicale.</description>
+    </item>
+    
+  </channel>
+</rss>
