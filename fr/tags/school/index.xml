@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>School on Sylvain Lapeyrade</title>
+    <title>School | Sylvain Lapeyrade</title>
     <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
-    <description>Recent content in School on Sylvain Lapeyrade</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://sylvainlapeyrade.github.io/fr/tags/school/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    <description>School</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
+      <title>School</title>
+      <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
+    </image>
     
     <item>
       <title>Multi-User Dungeon</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
-      <description>Projet scolaire de développement d&amp;rsquo;un Multi-User Dungeon.</description>
+      <description></description>
     </item>
     
   </channel>

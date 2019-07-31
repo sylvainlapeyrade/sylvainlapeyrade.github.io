@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine learning on Sylvain Lapeyrade</title>
+    <title>Machine learning | Sylvain Lapeyrade</title>
     <link>https://sylvainlapeyrade.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine learning on Sylvain Lapeyrade</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Sylvain Lapeyrade - {year} </copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://sylvainlapeyrade.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://sylvainlapeyrade.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
+      <title>Machine learning</title>
+      <link>https://sylvainlapeyrade.github.io/tags/machine-learning/</link>
+    </image>
     
     <item>
       <title>RNN Intrusion Detection Keras</title>
       <link>https://sylvainlapeyrade.github.io/project/rnn_intrusion-detection_keras/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://sylvainlapeyrade.github.io/project/rnn_intrusion-detection_keras/</guid>
-      <description>A Recurrent Neural Networks implementation using Keras for network intrusion detection.</description>
+      <description></description>
     </item>
     
   </channel>
