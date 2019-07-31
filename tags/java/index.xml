@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java | Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/tags/java/</link>
+      <atom:link href="https://sylvainlapeyrade.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <description>Java</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
+      <title>Java</title>
+      <link>https://sylvainlapeyrade.github.io/tags/java/</link>
+    </image>
+    
+    <item>
+      <title>Multi-User Dungeon</title>
+      <link>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
