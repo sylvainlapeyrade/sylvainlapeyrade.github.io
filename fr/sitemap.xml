@@ -3,9 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sylvainlapeyrade.github.io/fr/tags/academic-theme/</loc>
+    <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sylvainlapeyrade.github.io/tags/academic-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sylvainlapeyrade.github.io/fr/tags/academic-theme/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/hugo/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +35,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/project/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,7 +65,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +80,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -84,7 +95,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/web/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -98,25 +108,8 @@
   </url>
   
   <url>
-    <loc>https://sylvainlapeyrade.github.io/fr/tags/academic-theme/</loc>
-    <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sylvainlapeyrade.github.io/tags/academic-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sylvainlapeyrade.github.io/fr/tags/academic-theme/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/development/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -132,7 +125,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -163,7 +155,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/java/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -179,7 +170,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/mud/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -210,7 +200,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/tags/school/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -244,7 +233,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,7 +247,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -288,7 +275,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/fr/publication_types/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

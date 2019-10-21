@@ -3,9 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sylvainlapeyrade.github.io/tags/academic-theme/</loc>
+    <lastmod>2019-04-10T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sylvainlapeyrade.github.io/fr/tags/academic-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sylvainlapeyrade.github.io/tags/academic-theme/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sylvainlapeyrade.github.io/tags/hugo/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,7 +50,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/project/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -52,7 +65,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -68,7 +80,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -84,7 +95,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/web/</loc>
     <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -98,25 +108,8 @@
   </url>
   
   <url>
-    <loc>https://sylvainlapeyrade.github.io/tags/academic-theme/</loc>
-    <lastmod>2019-04-10T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sylvainlapeyrade.github.io/fr/tags/academic-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sylvainlapeyrade.github.io/tags/academic-theme/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sylvainlapeyrade.github.io/tags/development/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -132,7 +125,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/machine-learning/</loc>
     <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -163,7 +155,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/java/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -179,7 +170,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/mud/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -210,7 +200,6 @@
   <url>
     <loc>https://sylvainlapeyrade.github.io/tags/school/</loc>
     <lastmod>2018-12-01T00:00:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -244,7 +233,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -259,7 +247,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -288,7 +275,6 @@
   
   <url>
     <loc>https://sylvainlapeyrade.github.io/publication_types/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
