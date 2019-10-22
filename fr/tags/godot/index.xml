@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>School | Sylvain Lapeyrade</title>
-    <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
-      <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/school/index.xml" rel="self" type="application/rss+xml" />
-    <description>School</description>
+    <title>Godot | Sylvain Lapeyrade</title>
+    <link>https://sylvainlapeyrade.github.io/fr/tags/godot/</link>
+      <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Godot</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
-      <title>School</title>
-      <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
+      <title>Godot</title>
+      <link>https://sylvainlapeyrade.github.io/fr/tags/godot/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-User Dungeon</title>
-      <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
       <description></description>
     </item>
     

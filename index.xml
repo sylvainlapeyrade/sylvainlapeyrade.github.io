@@ -5,12 +5,20 @@
     <link>https://sylvainlapeyrade.github.io/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvain Lapeyrade</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Sylvain Lapeyrade</title>
       <link>https://sylvainlapeyrade.github.io/</link>
     </image>
+    
+    <item>
+      <title>AlphaQuest Video Game</title>
+      <link>https://sylvainlapeyrade.github.io/project/alphaquest/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/alphaquest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personal Website</title>

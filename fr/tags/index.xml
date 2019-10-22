@@ -5,12 +5,36 @@
     <link>https://sylvainlapeyrade.github.io/fr/tags/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Tags</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/</link>
     </image>
+    
+    <item>
+      <title>Development</title>
+      <link>https://sylvainlapeyrade.github.io/fr/tags/development/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot</title>
+      <link>https://sylvainlapeyrade.github.io/fr/tags/godot/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/tags/godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>School</title>
+      <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/tags/school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>academic theme</title>
@@ -37,14 +61,6 @@
     </item>
     
     <item>
-      <title>Development</title>
-      <link>https://sylvainlapeyrade.github.io/fr/tags/development/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      <guid>https://sylvainlapeyrade.github.io/fr/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Machine learning</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
@@ -65,14 +81,6 @@
       <link>https://sylvainlapeyrade.github.io/fr/tags/mud/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/mud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School</title>
-      <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      <guid>https://sylvainlapeyrade.github.io/fr/tags/school/</guid>
       <description></description>
     </item>
     
