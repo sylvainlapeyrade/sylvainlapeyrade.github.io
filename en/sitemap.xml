@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://sylvainlapeyrade.github.io/project/aritificial_intelligence/</loc>
+    <lastmod>2019-10-10T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sylvainlapeyrade.github.io/fr/project/aritificial_intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sylvainlapeyrade.github.io/project/aritificial_intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sylvainlapeyrade.github.io/tags/development/</loc>
     <lastmod>2019-10-10T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -33,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://sylvainlapeyrade.github.io/project/digital_image_processing/</loc>
+    <lastmod>2019-10-10T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sylvainlapeyrade.github.io/fr/project/digital_image_processing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sylvainlapeyrade.github.io/project/digital_image_processing/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sylvainlapeyrade.github.io/tags/godot/</loc>
     <lastmod>2019-10-10T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -44,6 +74,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sylvainlapeyrade.github.io/tags/godot/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sylvainlapeyrade.github.io/tags/machine-learning/</loc>
+    <lastmod>2019-10-10T00:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sylvainlapeyrade.github.io/fr/tags/machine-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sylvainlapeyrade.github.io/tags/machine-learning/"
                 />
   </url>
   
@@ -164,21 +209,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sylvainlapeyrade.github.io/tags/web/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sylvainlapeyrade.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-04-01T00:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://sylvainlapeyrade.github.io/fr/tags/machine-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sylvainlapeyrade.github.io/tags/machine-learning/"
                 />
   </url>
   

@@ -5,12 +5,20 @@
     <link>https://sylvainlapeyrade.github.io/tags/machine-learning/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2019 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Machine learning</title>
       <link>https://sylvainlapeyrade.github.io/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://sylvainlapeyrade.github.io/project/aritificial_intelligence/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/aritificial_intelligence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RNN Intrusion Detection Keras</title>
