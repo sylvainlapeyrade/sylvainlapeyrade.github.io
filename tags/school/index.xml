@@ -5,7 +5,7 @@
     <link>https://sylvainlapeyrade.github.io/tags/school/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/tags/school/index.xml" rel="self" type="application/rss+xml" />
     <description>School</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>School</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Multi-Agent Systems</title>
+      <link>https://sylvainlapeyrade.github.io/project/multi_agent_systems/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/multi_agent_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks Models and Algorithms</title>
+      <link>https://sylvainlapeyrade.github.io/project/networks_models_algorithms/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/networks_models_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Time Systems</title>
+      <link>https://sylvainlapeyrade.github.io/project/real_time_systems/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/project/real_time_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AlphaQuest Video Game</title>
       <link>https://sylvainlapeyrade.github.io/project/alphaquest/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/project/alphaquest/</guid>
       <description></description>
     </item>
@@ -23,7 +47,7 @@
     <item>
       <title>Artificial Intelligence</title>
       <link>https://sylvainlapeyrade.github.io/project/aritificial_intelligence/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/project/aritificial_intelligence/</guid>
       <description></description>
     </item>
@@ -31,7 +55,7 @@
     <item>
       <title>Digital Image Processing</title>
       <link>https://sylvainlapeyrade.github.io/project/digital_image_processing/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/project/digital_image_processing/</guid>
       <description></description>
     </item>
@@ -39,7 +63,7 @@
     <item>
       <title>Multi-User Dungeon</title>
       <link>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/project/multi_user_dungeon/</guid>
       <description></description>
     </item>

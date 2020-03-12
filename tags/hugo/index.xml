@@ -5,7 +5,7 @@
     <link>https://sylvainlapeyrade.github.io/tags/hugo/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Hugo</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Personal Website</title>
       <link>https://sylvainlapeyrade.github.io/project/personal_website/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/project/personal_website/</guid>
       <description></description>
     </item>

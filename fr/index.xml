@@ -5,7 +5,7 @@
     <link>https://sylvainlapeyrade.github.io/fr/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvain Lapeyrade</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0900</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Sylvain Lapeyrade</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Réseaux Modèles et Algorithmes</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/networks_models_algorithms/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/networks_models_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systèmes multi-agents</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/multi_agent_systems/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/multi_agent_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systèmes Temps Réel</title>
+      <link>https://sylvainlapeyrade.github.io/fr/project/real_time_systems/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/fr/project/real_time_systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AlphaQuest Jeu Vidéo</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</guid>
       <description></description>
     </item>
@@ -23,7 +47,7 @@
     <item>
       <title>Intelligence Artificielle</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/aritificial_intelligence/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/aritificial_intelligence/</guid>
       <description></description>
     </item>
@@ -31,7 +55,7 @@
     <item>
       <title>Traitement d&#39;image numérique</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/digital_image_processing/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/digital_image_processing/</guid>
       <description></description>
     </item>
@@ -39,7 +63,7 @@
     <item>
       <title>Site web personnel</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/personal_website/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/personal_website/</guid>
       <description></description>
     </item>
@@ -47,7 +71,7 @@
     <item>
       <title>RNN Détection d&#39;intrusion Keras</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/rnn_intrusion-detection_keras/</guid>
       <description></description>
     </item>
@@ -55,7 +79,7 @@
     <item>
       <title>Multi-User Dungeon</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/multi_user_dungeon/</guid>
       <description></description>
     </item>
@@ -63,7 +87,7 @@
     <item>
       <title>Site critique musicale</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/site_critique_musicale/</guid>
       <description></description>
     </item>
