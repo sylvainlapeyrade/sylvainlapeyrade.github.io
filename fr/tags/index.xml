@@ -5,7 +5,7 @@
     <link>https://sylvainlapeyrade.github.io/fr/tags/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Development</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/development/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/development/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Machine learning</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/machine-learning/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>School</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/school/</link>
-      <pubDate>Thu, 12 Mar 2020 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/school/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Godot</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/godot/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/godot/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>academic theme</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/academic-theme/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/academic-theme/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Hugo</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/hugo/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/hugo/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Web</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/web/</link>
-      <pubDate>Wed, 10 Apr 2019 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/web/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Java</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/java/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/java/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>MUD</title>
       <link>https://sylvainlapeyrade.github.io/fr/tags/mud/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/tags/mud/</guid>
       <description></description>
     </item>

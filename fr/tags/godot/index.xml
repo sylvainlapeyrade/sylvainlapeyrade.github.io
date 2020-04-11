@@ -5,7 +5,7 @@
     <link>https://sylvainlapeyrade.github.io/fr/tags/godot/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/fr/tags/godot/index.xml" rel="self" type="application/rss+xml" />
     <description>Godot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr-fr</language><copyright>© Sylvain Lapeyrade - 2020 </copyright><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/img/logo.svg</url>
       <title>Godot</title>
@@ -15,7 +15,7 @@
     <item>
       <title>AlphaQuest Jeu Vidéo</title>
       <link>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</link>
-      <pubDate>Thu, 10 Oct 2019 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0200</pubDate>
       <guid>https://sylvainlapeyrade.github.io/fr/project/alphaquest/</guid>
       <description></description>
     </item>
