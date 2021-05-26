@@ -19,4 +19,4 @@ If you are interested in making a similar site, follow the guidelines from the [
 Credits to the creators of [Hugo](https://gohugo.io/) and [gcushen](https://github.com/gcushen) for the [Academic Theme](https://github.com/gcushen/hugo-academic).
 
 ## License
-[Apache License 2.0](LICENSE) © [Sylvain Lapeyrade](https://github.com/sylvainlapeyrade)
+[Apache License 2.0](LICENSE)
