@@ -7,19 +7,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/publication-type/1/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/publication_types/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/aiide22_workshop/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2022_aiide_workshop/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/project/pong/</loc>
@@ -47,23 +47,23 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/publication-type/0/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/lamas-sr22_workshop/</loc>
-    <lastmod>2023-03-15T19:27:03+01:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2022_lamas-sr_workshop/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/project/academic_website/</loc>
     <lastmod>2023-03-15T18:39:55+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/kr21_dc/</loc>
-    <lastmod>2022-04-04T15:38:20+02:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2021_kr_dc/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/pfia21_gt_jeux/</loc>
-    <lastmod>2023-03-15T19:15:28+01:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2021_pfia_jeux/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/tag/academic/</loc>
@@ -91,11 +91,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/publication-type/7/</loc>
-    <lastmod>2022-04-04T15:38:20+02:00</lastmod>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/m2_nii/</loc>
-    <lastmod>2022-04-04T15:38:20+02:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2020_m2_nii/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/tag/machine-learning/</loc>
@@ -110,8 +110,8 @@
     <lastmod>2023-03-15T18:32:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sylvainlapeyrade.com/publication/m1_irit/</loc>
-    <lastmod>2022-04-04T15:38:20+02:00</lastmod>
+    <loc>https://sylvainlapeyrade.com/publication/2019_m1_irit/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/project/rnn_intrusion_detection/</loc>
@@ -132,6 +132,10 @@
   </url><url>
     <loc>https://sylvainlapeyrade.com/post/</loc>
     <lastmod>2021-01-23T19:43:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://sylvainlapeyrade.com/publication/2022_pfia_jfsma/</loc>
+    <lastmod>2023-03-15T19:54:33+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://sylvainlapeyrade.com/publication/</loc>
