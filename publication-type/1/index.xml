@@ -5,12 +5,39 @@
     <link>https://sylvainlapeyrade.github.io/publication-type/1/</link>
       <atom:link href="https://sylvainlapeyrade.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sylvainlapeyrade.github.io/media/icon_hu61c1c80786763fa84ec07e6e3084b02b_7100_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://sylvainlapeyrade.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Non-Player Character Decision-Making With Prolog and Ontologies</title>
+      <link>https://sylvainlapeyrade.github.io/publication/2023_cog_demo/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sylvainlapeyrade.github.io/publication/2023_cog_demo/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning</title>
