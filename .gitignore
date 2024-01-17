@@ -1,0 +1,17 @@
+# IDEs
+.idea/
+.vscode/
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Remove DS_Store files in all subfolders
+**/.DS_Store
